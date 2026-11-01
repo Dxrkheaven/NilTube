@@ -1,0 +1,1 @@
+This is a youtube client that is privacy focused and everything runs locally. This is a very personalized client as everything is customized to my liking. If you want to use the app just install python via package manager then compile it by running either "python NilTube.py" or "python3 NilTube.py".
